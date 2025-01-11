@@ -1,0 +1,1 @@
+System.register(["./chunk-legacy-B0T5wmiV.js","./chunk-legacy-CoMERZBV.js"],(function(n,t){"use strict";var e,r,u,c;return{setters:[function(n){e=n.a},function(n){r=n.o,u=n.a,c=n.b}],execute:function(){n("default",e({},[["render",function(n,t){return r(),u("div",null,t[0]||(t[0]=[c("button",{class:"btn btn-error"}," 打印 ",-1)]))}]]))}}}));

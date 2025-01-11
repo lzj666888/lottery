@@ -1,0 +1,1 @@
+System.register([],(function(e,n){"use strict";return{execute:function(){e({a:function(e){return new Promise((function(n){var r=new FileReader;r.readAsDataURL(e),r.onload=function(r){n({dataUrl:r.target.result,fileName:e.name})}}))},r:function(e){return new Promise((function(n){var r=new FileReader;r.readAsBinaryString(e),r.onload=function(e){n(e.target.result)}}))}})}}}));
